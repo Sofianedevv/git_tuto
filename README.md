@@ -1,0 +1,3 @@
+# INITIALISATION DU PROJET 
+
+git init 
