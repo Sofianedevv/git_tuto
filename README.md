@@ -4,7 +4,7 @@ git init
 
 # REDIGER UN COMMIT (bonne pratiue)
 
-TITRon
+TITRE un titre
 
 DESCRIPTION
 
